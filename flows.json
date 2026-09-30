@@ -1107,6 +1107,19 @@
         "wires": []
     },
     {
+        "id": "4e86c6fd2b1c759d",
+        "type": "catch",
+        "z": "b8f6a935265222bb",
+        "name": "",
+        "scope": null,
+        "uncaught": false,
+        "x": 300,
+        "y": 260,
+        "wires": [
+            []
+        ]
+    },
+    {
         "id": "64a270522eaff365",
         "type": "inject",
         "z": "18fe494525a09d1d",
